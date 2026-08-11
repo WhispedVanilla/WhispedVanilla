@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center"> 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/1149492351329374262/1536528690756849715/Untitled373_20260810201055.png?ex=6a7bbb5b&is=6a7a69db&hm=72fd2f000dc2051623dedb12ddaef8bb00bb250acb990d5e9256b6af2c914bba&613c05ae7313" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1149492351329374262/1536528690756849715/Untitled373_20260810201055.png?ex=6a7bbb5b&is=6a7a69db&hm=72fd2f000dc2051623dedb12ddaef8bb00bb250acb990d5e9256b6af2c914bba&613c05ae7313" width="300">
+ <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1536528690756849715/Untitled373_20260810201055.png?ex=6a7bbb5b&is=6a7a69db&hm=72fd2f000dc2051623dedb12ddaef8bb00bb250acb990d5e9256b6af2c914bba&" 
+  </picture width="700">
+ 
 
 <!--
 **WhispedVanilla/WhispedVanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
