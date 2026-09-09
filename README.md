@@ -16,7 +16,7 @@
  $\color{#D2DDCF}\text{ Awards ! ฅ(ᵔ꒳ ᵔマ.ᐟ  }$
  </font size="20">
 <p align="center">
-$\color{#9CBFC4}\text{ https://github.com/pt-hall-of-media }$
+ https://github.com/pt-hall-of-media
 <p align="center">
 
 
