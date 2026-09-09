@@ -6,4 +6,4 @@
   <p align="center">
  $\color{#9CBFC4}\text{ Sling / Lulu } 
 <p align="center">
- $
+ 
