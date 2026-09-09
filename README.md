@@ -10,3 +10,6 @@
 <p align="center">
  $\color{#9CBFC4}\text{ Read other Socials for Better Info ! }$
 <p align="center">
+ <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547319635794460823/Untitled388_20260909145539.png?ex=6aa2fd34&is=6aa1abb4&hm=401b34d9148f839feb6b3c4375055b9c04e99cbf5f8dbde7eb8be5c248d3df64&" 
+  </picture width="700">
+  <p align="center">
