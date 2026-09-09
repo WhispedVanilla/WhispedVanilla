@@ -36,11 +36,8 @@ $\color{#9CBFC4}\text{ C+H is always Encouraged, Even if not Stated }$
 <p align="center">
   $\color{#9CBFC4}\text{ W2int Pref, Im usually doing stuff-  }$
 <p align="center">
-$\color{#9CBFC4}\text{ 20+ Dni, 14- Iwc Pref ( 15 is iffy??) .  }$
+$\color{#9CBFC4}\text{ Rp Dni, I cannot take it Seriously I'm Sorry ! .  }$
 <p align="center">
- <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547330827468410890/tumblr_684f26de4aeaa79ace3e0883c940d912_513a99eb_540.png?ex=6aa307a1&is=6aa1b621&hm=17501d6552eb6e9ee58dc5efa22b2db0a35f46b14ed7592726b9d7152b931960&" 
-  </picture width="700">
-  <p align="center">
  <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547328766978818149/Untitled388_20260909153159.png?ex=6aa305b6&is=6aa1b436&hm=8319f23ed983e370c24dbe1fb4a77588fc1517cedda33db328ee0ceae5c95153&" 
   </picture width="700">
   <p align="center">
