@@ -24,8 +24,10 @@ https://github.com/fans-town
 <p align="center">
 https://github.com/pt-medals
 <p align="center">
-
-
+https://github.com/cosplaytown
+<p align="center">
+https://github.com/ponychievements
+<p align="center">
 
 
 
