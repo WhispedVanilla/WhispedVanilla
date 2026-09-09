@@ -6,5 +6,5 @@
   <p align="center">
  $\color{#9CBFC4}\text{ Sling ノ Lulu —— They ノ She }$
 <p align="center">
-  $\color{#D2DDCF}\text{ Lvl 200+ Sling Main ⸝⸝ I tend to have a low social battery, but I promise I love talking to new people! }$
+  $\color{#D2DDCF}\text{ Lvl 200+ Sling Main ⸝⸝ Low Social Battery, W2int Pref }$
 <p align="center">
