@@ -8,3 +8,5 @@
 <p align="center">
   $\color{#D2DDCF}\text{ Lvl 200+ Sling Main ⸝⸝ Low Social Battery, W2int Pref }$
 <p align="center">
+ $\color{#9CBFC4}\text{ Read other Socials for Better Info }$
+<p align="center">
