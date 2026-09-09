@@ -13,3 +13,6 @@
  <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547319635794460823/Untitled388_20260909145539.png?ex=6aa2fd34&is=6aa1abb4&hm=401b34d9148f839feb6b3c4375055b9c04e99cbf5f8dbde7eb8be5c248d3df64&" 
   </picture width="700">
   <p align="center">
+ $\color{#D2DDCF}\text{ Awards ! ฅ(ᵔ꒳ ᵔマ.ᐟ  }$
+ </font size="20">
+<p align="center">
