@@ -32,7 +32,7 @@ https://github.com/ponytown-rewards
 <p align="center">
 https://github.com/pt-nominations
 <p align="center">
- <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547327714284019762/tumblr_2d4385054553d6bb27710495276a9ce2_70522220_540.gif?ex=6aa304bb&is=6aa1b33b&hm=81036f454761326d4cd2063fdaca728d9fbbce0be37f1f98e1da8a428d81ff09&" 
+ <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547328766978818149/Untitled388_20260909153159.png?ex=6aa305b6&is=6aa1b436&hm=8319f23ed983e370c24dbe1fb4a77588fc1517cedda33db328ee0ceae5c95153&" 
   </picture width="700">
   <p align="center">
 
