@@ -34,7 +34,7 @@ https://github.com/pt-nominations
 <p align="center">
 $\color{#9CBFC4}\text{ C+H is always Encouraged, Even if not Stated }$
 <p align="center">
-  $\color{#9CBFC4}\text{ W2int Pref, Im usually doing stuff-  }$
+  $\color{#D2DDCF}\text{ W2int Pref, Im usually doing stuff-  }$
 <p align="center">
 $\color{#9CBFC4}\text{ Rp Dni, I cannot take it Seriously I'm Sorry ! .  }$
 <p align="center">
