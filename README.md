@@ -18,9 +18,12 @@
 <p align="center">
  https://github.com/pt-hall-of-media
 <p align="center">
-
-
-
+https://github.com/pt-of-awesomeness
+<p align="center">
+https://github.com/fans-town
+<p align="center">
+https://github.com/pt-medals
+<p align="center">
 
 
 
