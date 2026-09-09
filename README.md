@@ -3,9 +3,7 @@
  <source media=" (prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1149492351329374262/1536528690756849715/Untitled373_20260810201055.png?ex=6a7bbb5b&is=6a7a69db&hm=72fd2f000dc2051623dedb12ddaef8bb00bb250acb990d5e9256b6af2c914bba&613c05ae7313" width="300">
  <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547311223148912680/Untitled388_20260909142216.png?ex=6aa2f55f&is=6aa1a3df&hm=d2bf05e4d7867aa12020c949e9fae27920d0282b5ad2cfa205bc68db6e04ac5c&" 
   </picture width="700">
-  <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1300486565939904612/1547305009102848000/Screenshot_20260909_135714_Roblox.jpg?ex=6aa2ef95&is=6aa19e15&hm=a81305d50be9e1b5c00a552b5d5fce2668b30604e184bc0fe319c6ef6666ef2f&" 
-</picture width="500">
-<!--
+  
 **WhispedVanilla/WhispedVanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
