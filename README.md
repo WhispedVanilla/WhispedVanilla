@@ -28,7 +28,9 @@ https://github.com/cosplaytown
 <p align="center">
 https://github.com/ponychievements
 <p align="center">
-
-
+https://github.com/ponytown-rewards
+<p align="center">
+https://github.com/pt-nominations
+<p align="center">
 
 
