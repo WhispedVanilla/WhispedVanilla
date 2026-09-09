@@ -38,7 +38,7 @@ $\color{#9CBFC4}\text{ C+H is always Encouraged, Even if not Stated }$
 <p align="center">
 $\color{#9CBFC4}\text{ Rp Dni, I cannot take it Seriously I'm Sorry ! .  }$
 <p align="center">
- <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547328766978818149/Untitled388_20260909153159.png?ex=6aa305b6&is=6aa1b436&hm=8319f23ed983e370c24dbe1fb4a77588fc1517cedda33db328ee0ceae5c95153&" 
+ <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547332771771584532/IMG_6854.png?ex=6aa30970&is=6aa1b7f0&hm=89522860ac4c84121db06ecb3b126816429042e8969fc775daa4789855209398&" 
   </picture width="700">
   <p align="center">
 
