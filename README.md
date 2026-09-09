@@ -4,7 +4,7 @@
  <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547308860681879572/Untitled386_20260909141252.png?ex=6aa2f32b&is=6aa1a1ab&hm=e59ca8b2dc881372d60e821a54ce04cd116f8924d19a6d64c2e7fe72683c13d8&" 
   </picture width="700">
   <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1300486565939904612/1547305009102848000/Screenshot_20260909_135714_Roblox.jpg?ex=6aa2ef95&is=6aa19e15&hm=a81305d50be9e1b5c00a552b5d5fce2668b30604e184bc0fe319c6ef6666ef2f&" 
-
+</picture width="500">
 <!--
 **WhispedVanilla/WhispedVanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
