@@ -10,7 +10,7 @@
 <p align="center">
  $\color{#9CBFC4}\text{ Read other Socials for Better Info ! }$
 <p align="center">
- <img alt="Profile Banner" src="https://i.postimg.cc/zGgQbwPC/Untitled407-20261020032734.png" 
+ <img alt="Profile Banner" src="https://i.postimg.cc/pXXxFSDw/Untitled388-20260909145539.png" 
   </picture width="700">
   <p align="center">
  $\color{#D2DDCF}\text{ Awards ! ฅ(ᵔ꒳ ᵔマ.ᐟ  }$
@@ -42,7 +42,7 @@ $\color{#9CBFC4}\text{ C+H is always Encouraged, Even if not Stated }$
 <p align="center">
 $\color{#9CBFC4}\text{ Rp Dni, I cannot take it Seriously I'm Sorry ! .  }$
 <p align="center">
- <img alt="Profile Banner" src="https://cdn.discordapp.com/attachments/1149492351329374262/1547332771771584532/IMG_6854.png?ex=6aa30970&is=6aa1b7f0&hm=89522860ac4c84121db06ecb3b126816429042e8969fc775daa4789855209398&" 
+ <img alt="Profile Banner" src="https://i.postimg.cc/GhsKqLJv/IMG-6854.png" 
   </picture width="700">
   <p align="center">
 
