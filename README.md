@@ -10,7 +10,7 @@
 <p align="center">
  $\color{#9CBFC4}\text{ Read other Socials for Better Info ! }$
 <p align="center">
- <img alt="Profile Banner" src="https://i.postimg.cc/pXXxFSDw/Untitled388-20260909145539.png" 
+ <img alt="Profile Banner" src="https://i.postimg.cc/zGgQbwPC/Untitled407-20261020032734.png" 
   </picture width="700">
   <p align="center">
  $\color{#D2DDCF}\text{ Awards ! ฅ(ᵔ꒳ ᵔマ.ᐟ  }$
